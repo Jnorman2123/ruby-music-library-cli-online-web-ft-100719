@@ -1,3 +1,4 @@
+require_all 'lib'
 class Genre
   attr_accessor :name, :songs
   @@all = []
