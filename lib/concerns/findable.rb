@@ -1,6 +1,4 @@
-require_relative '../lib/artist'
-require_relative '../lib/genre'
-require_relative '../lib/song'
+require_all 'lib'
 
 module Concerns::Findable
 
