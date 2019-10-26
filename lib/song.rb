@@ -1,3 +1,4 @@
+require_all 'lib'
 class Song
   # extend Concerns::Findable
   attr_accessor :name, :artist, :genre
